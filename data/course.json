@@ -1,0 +1,66 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Labor Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Business",
+      "Industrial Relations and Human Resource Management"
+    ]
+  ],
+  "legacy_uid": "6eb03e87-aa7b-46fb-cb53-41f6bbf30dde",
+  "instructors": {
+    "content": [
+      "2fecbdd1-4920-9e72-b49a-d7b89936f95d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4e6b70fb-ae6a-6326-cb72-e3e10e4230d9",
+    "website": "17-188j-labor-and-politics-fall-2005"
+  },
+  "course_title": "Labor and Politics",
+  "course_description": "This graduate research and reading seminar examines an array of issues facing labor in today's global world. The premise of this course is that recent developments (e.g., globalization, liberalization, privatization, etc.) have created a mix of opportunities and risks for labor in most developing countries.\n",
+  "department_numbers": [
+    "17",
+    "11"
+  ],
+  "extra_course_numbers": "11.414J",
+  "primary_course_number": "17.188J",
+  "course_image_thumbnail": {
+    "content": "c83d2913-e153-460b-8ab7-e6eb27750358",
+    "website": "17-188j-labor-and-politics-fall-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "b9629ee9-da40-41b8-a604-c820258b6ff2",
+  "site_short_id": "17.188j-fall-2005",
+  "site_url_path": "courses/17-188j-labor-and-politics-fall-2005",
+  "title": "Course Metadata"
+}
