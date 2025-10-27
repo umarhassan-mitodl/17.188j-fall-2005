@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides citations for required books and the schedule of
   readings by session.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -153,7 +151,7 @@ _Required Readings_
 
 Bhagwati, Jagdish. "Trade Liberalization and 'Fair Trade' Demands: Addressing the Environmental and Labor Standard Issues." _World Economy_ 18, no. 6 (November 1995): 745-15. ISSN: 03785920.
 
-[Rigged Rules and Double Standards: trade, globalization, and the fight against poverty](http://policy-practice.oxfam.org.uk/publications/rigged-rules-and-double-standards-trade-globalisation-and-the-fight-against-pov-112391). Oxfam International, 2002. pp. 1-271.
+{{% resource_link "af0ec1aa-4dde-4601-8c94-ce7847b09753" "Rigged Rules and Double Standards: trade, globalization, and the fight against poverty" %}}. Oxfam International, 2002. pp. 1-271.
 
 _Recommended Readings_
 
@@ -185,7 +183,7 @@ _Required Readings_
 
 O'Rourke, Dara. "Outsourcing Regulation: Non-Governmental Systems of Labor Standards and Monitoring." _Policy Studies Journal_ 31, no. 1 (2003): 1-29.
 
-Elliott, Kimberly Ann, and Richard B. Freeman. "White Hats or Don Quixotes? Human Rights Vigilantes in the Global Economy." [National Bureau of Economic Research Working paper 8102](http://www.nber.org/papers/w8012), January 2001.
+Elliott, Kimberly Ann, and Richard B. Freeman. "White Hats or Don Quixotes? Human Rights Vigilantes in the Global Economy." {{% resource_link "b3bf499b-3de6-403e-84bc-b779e17ca51b" "National Bureau of Economic Research Working paper 8102" %}}, January 2001.
 
 Rodríguez-Garavito, César A. "Global Governance and Labor Rights: Codes of Conduce and Anti-Sweatshop Struggles in Global Apparel Factories in Mexico and Guatemala." _Politics & Society_ 33, no. 2 (June 2005): 203-233.
 
@@ -193,7 +191,7 @@ Locke, Richard M., et al. "Does Monitoring Work?: Lessons from Nike." (To be dis
 
 _Recommended Readings_
 
-Schrage, Elliot J. "Promoting International Worker Rights through Private Voluntary Initiatives: Public Relations or Public Policy?" [University of Iowa Center for Human Rights](http://www.uichr.org/), January 2004.
+Schrage, Elliot J. "Promoting International Worker Rights through Private Voluntary Initiatives: Public Relations or Public Policy?" {{% resource_link "6c4f6865-bc7e-4f27-81ea-9bb2912674e7" "University of Iowa Center for Human Rights" %}}, January 2004.
 
 Amengual, Matthew, and Gustavo Setrini. "A Critical Look at Monitoring." An MIT Case, July 2005.
 
@@ -259,7 +257,7 @@ Portes, Alejandro. "The Social Origins of the Cuban Enclave Economy in Miami." _
 
 Capecchi, Vittorio. "The Informal Economy and the Development of Flexible Specialization in Emilia Romagna." _The Informal Economy: Studies in Advanced and Less Developed Countries_. Baltimore, MD; London, UK: The Johns Hopkins University Press, 1989, chapter 10, pp. 189-215. ISBN: 9780801837357.
 
-Saxenian, AnnaLee. "[Silicon Valley's New Immigrant Entrepreneurs](http://www.ppic.org/main/publication.asp?i=102)." [Public Policy Institute of California](http://www.ppic.org/main/home.asp) (September 1, 1999). ([PDF](http://www.escholarship.org/uc/item/88x6505q))
+Saxenian, AnnaLee. "{{% resource_link "173c07a2-bc04-48bb-aa81-bbf579ad7ae9" "Silicon Valley's New Immigrant Entrepreneurs" %}}." {{% resource_link "53d566a7-adcc-412d-b083-e10c0e687160" "Public Policy Institute of California" %}} (September 1, 1999). ({{% resource_link "df2925cf-7d6d-4141-b39c-dc0fe2608343" "PDF" %}})
 
 
 {{< tdclose >}}
